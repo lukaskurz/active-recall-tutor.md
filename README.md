@@ -8,7 +8,7 @@ I use Claude and Claude code for this. Claude and its models just appeal more to
 
 I run the code inside the transcriber folder in a claude code session, together with its inbuilt Chrome MCP. Open chrome, navigate to the lectures moodle page where the videos are hosted, and then tell claude code to download their audio and transcribe it. You really kind of need claude code for this, since each lecturer uses a different style of uploading and hosting videos apperently, with different backing plugins and players, so its easiest to just let claude code play around in the browser to find the exact sources, request and system to download them, as standalone yt-dlp often was not sufficient for me.
 
-For transcription just use a locally installed whisper, you can easily get any kind of whisper model and run it locally nowadays. If you only have meager CPU (Are you ok ? how are you holding up, you probably suffer having to train some of the models for our courses on a CPU, my condolences) maybe just run a small or medum model. If you have a Apple Silicon (M1-M5) machine or a GPU, use medium to large. Apple silicon is faster with whisper-mlx, but claude code will likely do the install and setup for you anyways, just follow its lead.
+For transcription just use a locally installed whisper, you can easily get any kind of whisper model and run it locally nowadays. If you only have a meager CPU maybe just run a small or medum model. If you have a Apple Silicon (M1-M5) machine or a GPU, use medium to large. Apple silicon is faster with whisper-mlx, but claude code will likely do the install and setup for you anyways, just follow its lead.
 
 ## Summarize the lectures
 
