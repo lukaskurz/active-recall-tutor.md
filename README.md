@@ -1,3 +1,5 @@
+I built this to help myself learn for a particular exam where I was heavily time constrained and wanted to be as effective as possible in my learning. The resulting process and skills surpassed my expectations and it kind of saddens me that I only figured this process out on my second to last exam of my masters, so I wanted to share this with others, in case this helps them too. The code stuff is in rough shape and the most important part is really only the 
+
 # Getting started
 
 I use Claude and Claude code for this. Claude and its models just appeal more to me in its style and output for learning technical concepts, and claude code is just my preferred llm coding harness. You can use other LLMs, but your mileage may vary.
